@@ -184,5 +184,5 @@ Or use the `sxwm.desktop` file
 ---
 
 <p align="center">
-  <em>uint [2025]</em>
+  <em>uint [2026]</em>
 </p>
